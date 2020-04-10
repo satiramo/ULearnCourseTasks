@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Rectangles.csproj\obj\Debug\Rectangles.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Rectangles.csproj\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rectangles.csproj\bin\Debug\Rectangles.exe.config
+C:\Users\User\source\repos\Rectangles.csproj\bin\Debug\Rectangles.exe
+C:\Users\User\source\repos\Rectangles.csproj\bin\Debug\Rectangles.pdb
+C:\Users\User\source\repos\Rectangles.csproj\bin\Debug\TestingRoom.dll
+C:\Users\User\source\repos\Rectangles.csproj\obj\Debug\Rectangles.csproj.CopyComplete
+C:\Users\User\source\repos\Rectangles.csproj\obj\Debug\Rectangles.exe
+C:\Users\User\source\repos\Rectangles.csproj\obj\Debug\Rectangles.pdb

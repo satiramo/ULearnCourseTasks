@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\table-parser.csproj\bin\Debug\data.txt
+C:\Users\User\source\repos\table-parser.csproj\bin\Debug\TableParser.exe.config
+C:\Users\User\source\repos\table-parser.csproj\bin\Debug\TableParser.exe
+C:\Users\User\source\repos\table-parser.csproj\bin\Debug\TableParser.pdb
+C:\Users\User\source\repos\table-parser.csproj\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\table-parser.csproj\obj\Debug\table-parser.csprojAssemblyReference.cache
+C:\Users\User\source\repos\table-parser.csproj\obj\Debug\TableParser.ParserMainForm.resources
+C:\Users\User\source\repos\table-parser.csproj\obj\Debug\TableParser.Properties.Resources.resources
+C:\Users\User\source\repos\table-parser.csproj\obj\Debug\table-parser.csproj.GenerateResource.cache
+C:\Users\User\source\repos\table-parser.csproj\obj\Debug\table-parser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\table-parser.csproj\obj\Debug\table-parser.csproj.CopyComplete
+C:\Users\User\source\repos\table-parser.csproj\obj\Debug\TableParser.exe
+C:\Users\User\source\repos\table-parser.csproj\obj\Debug\TableParser.pdb

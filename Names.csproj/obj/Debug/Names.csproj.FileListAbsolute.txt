@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Names.csproj\bin\Debug\names.txt
+C:\Users\User\source\repos\Names.csproj\bin\Debug\Names.exe.config
+C:\Users\User\source\repos\Names.csproj\bin\Debug\Names.exe
+C:\Users\User\source\repos\Names.csproj\bin\Debug\Names.pdb
+C:\Users\User\source\repos\Names.csproj\bin\Debug\ZedGraph.dll
+C:\Users\User\source\repos\Names.csproj\bin\Debug\ZedGraph.xml
+C:\Users\User\source\repos\Names.csproj\obj\Debug\Names.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Names.csproj\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Names.csproj\obj\Debug\Names.csproj.CopyComplete
+C:\Users\User\source\repos\Names.csproj\obj\Debug\Names.exe
+C:\Users\User\source\repos\Names.csproj\obj\Debug\Names.pdb

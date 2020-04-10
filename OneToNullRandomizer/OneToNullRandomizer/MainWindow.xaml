@@ -1,0 +1,21 @@
+﻿<Window x:Class="OneToNullRandomizer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OneToNullRandomizer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="759">
+    <Grid Margin="0,0,0,2" HorizontalAlignment="Left" Width="749">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="119*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="365*"/>
+            <ColumnDefinition Width="310*"/>
+            <ColumnDefinition Width="74*"/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+</Window>

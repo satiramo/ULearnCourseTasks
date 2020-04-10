@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\AngryBirds.csproj\bin\Debug\AngryBirds.exe.config
+C:\Users\User\source\repos\AngryBirds.csproj\bin\Debug\AngryBirds.exe
+C:\Users\User\source\repos\AngryBirds.csproj\bin\Debug\AngryBirds.pdb
+C:\Users\User\source\repos\AngryBirds.csproj\bin\Debug\TestingRoom.dll
+C:\Users\User\source\repos\AngryBirds.csproj\obj\Debug\AngryBirds.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AngryBirds.csproj\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AngryBirds.csproj\obj\Debug\AngryBirds.csproj.CopyComplete
+C:\Users\User\source\repos\AngryBirds.csproj\obj\Debug\AngryBirds.exe
+C:\Users\User\source\repos\AngryBirds.csproj\obj\Debug\AngryBirds.pdb

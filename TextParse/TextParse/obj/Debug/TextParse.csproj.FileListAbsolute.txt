@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TextParse\TextParse\obj\Debug\TextParse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextParse\TextParse\bin\Debug\TextParse.exe.config
+C:\Users\User\source\repos\TextParse\TextParse\bin\Debug\TextParse.exe
+C:\Users\User\source\repos\TextParse\TextParse\bin\Debug\TextParse.pdb
+C:\Users\User\source\repos\TextParse\TextParse\obj\Debug\TextParse.exe
+C:\Users\User\source\repos\TextParse\TextParse\obj\Debug\TextParse.pdb
+C:\Users\User\source\repos\TextParse\TextParse\obj\Debug\TextParse.csprojAssemblyReference.cache
